@@ -8,7 +8,7 @@
     "test": "test"
   },
   "dependencies": {
-    "passport-oauth2": "^1.1.2"
+    "passport-oauth2-aws-lambda": "git+ssh://git@github.com/neshte/passport-oauth2-aws-lambda.git#master"
   },
   "devDependencies": {
     "vows": "^0.8.0"
