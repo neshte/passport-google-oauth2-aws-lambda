@@ -1,5 +1,5 @@
 {
-  "name": "passport-google-oauth2",
+  "name": "passport-google-oauth2-aws-lambda",
   "version": "0.2.0",
   "description": "Passport strategy for Google OAuth 2.0",
   "main": "./lib/oauth2.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mstade/passport-google-oauth2.git"
+    "url": "git://github.com/neshte/passport-google-oauth2-aws-lambda.git"
   },
   "keywords": [
     "auth",
@@ -30,7 +30,7 @@
   "author": "Marcus Stade <marcus@stade.se>, Ilya Kantor <iliakan@gmail.com>, Alexis Gruet <alexis.gruet@kroknet.com>, Jared Hanson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mstade/passport-google-oauth2/issues"
+    "url": "https://github.com/neshte/passport-google-oauth2-aws-lambda/issues"
   },
-  "homepage": "https://github.com/mstade/passport-google-oauth2"
+  "homepage": "https://github.com/neshte/passport-google-oauth2-aws-lambda"
 }
